@@ -1,0 +1,10 @@
+C:\Users\Host\Documents\Programming\Programming\C#\CalcGame\CalcGame\bin\Debug\CalcGame.exe.config
+C:\Users\Host\Documents\Programming\Programming\C#\CalcGame\CalcGame\bin\Debug\CalcGame.exe
+C:\Users\Host\Documents\Programming\Programming\C#\CalcGame\CalcGame\bin\Debug\CalcGame.pdb
+C:\Users\Host\Documents\Programming\Programming\C#\CalcGame\CalcGame\obj\Debug\CalcGame.csproj.AssemblyReference.cache
+C:\Users\Host\Documents\Programming\Programming\C#\CalcGame\CalcGame\obj\Debug\CalcGame.Properties.Resources.resources
+C:\Users\Host\Documents\Programming\Programming\C#\CalcGame\CalcGame\obj\Debug\CalcGame.csproj.GenerateResource.cache
+C:\Users\Host\Documents\Programming\Programming\C#\CalcGame\CalcGame\obj\Debug\CalcGame.csproj.CoreCompileInputs.cache
+C:\Users\Host\Documents\Programming\Programming\C#\CalcGame\CalcGame\obj\Debug\CalcGame.exe
+C:\Users\Host\Documents\Programming\Programming\C#\CalcGame\CalcGame\obj\Debug\CalcGame.pdb
+C:\Users\Host\Documents\Programming\Programming\C#\CalcGame\CalcGame\obj\Debug\CalcGame.Form1.resources
